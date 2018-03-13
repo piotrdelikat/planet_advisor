@@ -1,0 +1,45 @@
+.container {
+  width: 75%;
+  height: 100%;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  text-align: center;
+
+  font-family: 'Mina', sans-serif;
+  font-size: 1.4rem;
+}
+
+.row {
+  width: 100%;
+}
+
+.planet-list {
+  width: 60%;
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
+
+.planet {
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.comments{
+  display: flex;
+  flex-direction: column;
+}
+
+.comment {
+  display: flex;
+  flex-direction: column;
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: right;
+}
+
+.planet-delete {
+  margin-left: 20px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
