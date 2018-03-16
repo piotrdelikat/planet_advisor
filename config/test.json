@@ -1,0 +1,4 @@
+{
+    "DB_HOST": "mongodb://",
+    "DB_ADDRESS": "@ds113799.mlab.com:13799/planet_advisor_test"
+}
